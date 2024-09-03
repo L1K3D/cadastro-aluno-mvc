@@ -1,4 +1,6 @@
-﻿namespace CadAlunoMVC.DAO
+﻿using System.Data.SqlClient;
+
+namespace CadAlunoMVC.DAO
 {
     public static class ConexaoDB
     {
